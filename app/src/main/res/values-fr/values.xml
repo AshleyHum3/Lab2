@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="button_text">Je suis un bouton!”</string>
+    <string name="app_name">Lab2</string>>
+    <string name="pressMe_button">Presse-moi</string>
+    <string name="hint">J\'aime Androïd</string>
+    <string name="toast_message">Le laboratoire a été mis à jour !</string>
+    <string name="checkbox_on">sur</string>
+    <string name="checkbox_off">hors</string>
+    <string name="undo">annuler</string>
+    <string name="off_on">changer hors/sur</string>
+    <string name="check">Regarde ça!</string>
+
+</resources>
